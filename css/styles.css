@@ -1,0 +1,131 @@
+body{
+   
+    font-family: 'Montserrat', sans-seraf;
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family:'Montserrat', sans-serif;
+}
+p{
+    color:#000;
+}
+/* Headings */
+.big-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    line-height: 1.5;
+    font-weight: bold;
+    text-align: center;
+    color: #65647C;
+}
+.section-heading{
+        font-size: 2.5rem;
+        
+    }
+/* Containers */
+.container-fluid{
+        padding:7% 15%;
+    }
+
+    /* Sections */
+.colored-section{
+    background-color: #D989B5;
+}
+.white-section{
+    background-color: #D8D9CF;
+}
+
+/* Navigation Section */
+.navbar{
+    position: fixed;
+    padding: 0 0 0 4.6rem;
+    z-index: 1;
+    width: 100%;
+    }
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.navbar-nav{
+    padding:3% 7%;
+}
+.logo{
+width: 100%;
+} 
+
+/* Intro Section */
+
+.intro-section {
+  padding-top:7%;
+}
+.title-image{
+    left: 15%;
+    width: 100%;
+}
+#intro .big-heading{
+    padding: 5% 0 5% 0;
+}
+ /* Feature Section */
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color:#65647C;
+    margin-bottom: 1rem;
+ }
+ .icon:hover{
+    color: #000;
+}
+
+/* Product Section */
+.product-icon{
+    color:#65647C;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15%;
+}
+.product-icon:hover{
+    color: #000;
+}
+.product{
+    text-align: center;
+    padding: 5%;
+}
+.card-body{
+    padding-top: 50px;
+}
+
+/* Testimonial Section */
+#testimonials{
+    padding: 5% 10%;
+    text-align: center;
+    background-color: #975C8D;
+    color: #fff;
+}
+.testimonial-image{
+    width: 10% ;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-item{
+    padding: 5% 10%;
+}
+
+/* Footer Section */
+#footer{
+    padding: 0 18px;
+}
+.about-us{
+    text-align: left;
+    color:#8f8f8f ;
+    border-radius: 100%;
+    }
+    .social-icon{
+        margin:20px 10px;
+        align-items: center;
+    }
+

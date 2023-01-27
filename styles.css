@@ -1,6 +1,6 @@
 body{
    
-    font-family: 'Montserrat', sans-seraf;
+    font-family: 'Ubuntu', sans-serif;
     text-align: center;
 }
 h1, h2, h3, h4, h5, h6{
@@ -10,7 +10,7 @@ p{
     color:#000;
 }
 /* Headings */
-.big-heading{
+#intro .big-heading{
     font-family: 'Montserrat', sans-serif;
     font-size: 5rem;
     line-height: 1.5;
